@@ -1,7 +1,6 @@
 from os import system
 from time import sleep
 import sys
-import date
 import time
 from datetime import datetime
 
